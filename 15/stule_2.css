@@ -1,0 +1,447 @@
+.logo{
+	position: absolute;
+	width: 103.68px;
+	height: 26px;
+	left: 99px;
+	top: 28px;
+}
+
+.menu_1{
+	position: absolute;
+	width: 422px;
+	height: 13px;
+	left: 472px;
+	top: 35px;
+}
+
+.icons_header_1{
+	position: absolute;
+	width: 99px;
+	height: 21px;
+	left: 1160px;
+	top: 31px;
+}
+
+.pages{
+	position: absolute;
+	width: 270px;
+	height: 13px;
+	left: 103px;
+	top: 111px;
+}
+
+.headline_catalog{
+	position: absolute;
+	width: 230px;
+	height: 35px;
+	left: 101px;
+	top: 164px;
+
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 43px;
+
+	color: #1B1A17;
+}  
+
+.filter{
+	position: absolute;
+	width: 230.07px;
+	height: 523px;
+	left: 103px;
+	top: 239px;
+}
+
+.stoim{
+	position: absolute;
+	width: 109.82px;
+	height: 13px;
+	left: 2px;
+	top: 20px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 16px;
+	text-transform: capitalize;
+
+	color: #444240;
+}
+
+.Vector_3{
+	position: absolute;
+	width: 0px;
+	height: 10.07px;
+	left: 226px;
+	top: 5px;
+
+	border: 1px solid #1B1A17;
+	transform: rotate(-90deg);
+}
+
+.Group_1{
+	position: absolute;
+	width: 230px;
+	height: 10px;
+	left: 5px;
+	top: 70px;
+	}
+
+.chen{
+	position: absolute;
+	width: 37px;
+	height: 11px;
+	left: 10px;
+	top: 75px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+
+	color: rgba(27, 26, 23, 0.82);
+}
+
+.ruble{
+	position: absolute;
+	width: 5.33px;
+	height: 8px;
+	left: 40px;
+	top:3px;
+}
+
+.chen1{
+	position: absolute;
+	width: 37px;
+	height: 11px;
+	left: 133px;
+	top: 75px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+
+	color: rgba(27, 26, 23, 0.82);
+}
+
+.ruble1{
+	position: absolute;
+	width: 5.33px;
+	height: 8px;
+	left: 40px;
+	top: 3px;
+}
+
+.brend{
+	position: absolute;
+	width: 109.82px;
+	height: 13px;
+	left: 2px;
+	top: 100px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 16px;
+	text-transform: capitalize;
+
+	color: #444240;
+}
+
+.Vector_4{
+	position: absolute;
+	width: 0px;
+	height: 10.07px;
+	left: 226px;
+	top: 3px;
+
+	border: 1px solid #1B1A17;
+	transform: rotate(-90deg);
+}
+
+.Group_2{
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 160px;
+
+	
+}
+
+.Group_3{
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 180px;
+}
+
+.Group_4{
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 200px;
+}
+
+.Rectangle{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 220px;
+}
+
+.Rectangle1{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 240px;
+}
+
+.Rectangle2{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 1px;
+	top: 260px;
+}
+
+.Techne{
+	position: absolute;
+	width: 91.68px;
+	height: 11px;
+	left: 35px;
+	top: 154px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+}
+
+.Rado{
+	position: absolute;
+	width: 95.71px;
+	height: 11px;
+	left: 35px;
+	top: 174px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+}
+
+.Bvlgari{
+	position: absolute;
+	width: 106.79px;
+	height: 11px;
+	left: 35px;
+	top: 194px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+}
+
+.Tissot{
+	position: absolute;
+	width: 43.32px;
+	height: 11px;
+	left: 35px;
+	top: 214px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+	}
+
+.Omega{
+	position: absolute;
+	width: 46.35px;
+	height: 11px;
+	left: 35px;
+	top: 234px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+}
+
+.Montblanc{
+	position: absolute;
+	width: 77.58px;
+	height: 11px;
+	left: 35px;
+	top: 254px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 0%;
+	color: #6F6E6D;
+}
+
+.mex{
+	position: absolute;
+	width: 229.7px;
+	height: 13px;
+	left: 1px;
+	top: 290px;
+}
+
+.mat{
+	position: absolute;
+	width: 229.7px;
+	height: 13px;
+	left: 1px;
+	top: 320px;
+
+}
+
+.chvet{
+	position: absolute;
+	width: 229.7px;
+	height: 13px;
+	left: 1px;
+	top: 350px;
+}
+
+.plus{
+	position: absolute;
+	width: 10.07px;
+	height: 10px;
+	left: 226px;
+	top: 312px;
+}
+
+.plus1{
+	position: absolute;
+	width: 10.07px;
+	height: 10px;
+	left: 226px;
+	top: 342px;
+}
+
+.plus2{
+	position: absolute;
+	width: 10.07px;
+	height: 10px;
+	left: 226px;
+	top: 372px;
+}
+
+.button_1{
+	position: absolute;
+	width: 230px;
+	height: 60px;
+	left: 1px;
+	top: 400px;
+}
+
+.sotring{
+	position: absolute;
+	width: 209px;
+	height: 13px;
+	left: 1036px;
+	top: 177px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+
+	color: #BDB9B5;
+
+}
+
+.Vector2_3{
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 200px;
+	top: 7px;
+}
+
+.back_1{
+	position: absolute;
+	width: 252px;
+	height: 300px;
+	left: 427px;
+	top: 239px;
+
+	background: #FDFDFB;
+}
+
+.Group_5{
+	position: absolute;
+	width: 52px;
+	height: 16px;
+	left: 185px;
+	top: 13px;
+}
+
+.TECHNE{
+	position: absolute;
+	width: 110px;
+	height: 13px;
+	left: 50px;
+	top: 259px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: 0.05em;
+
+	color: #444240;
+}
+
+.chislo{
+	position: absolute;
+	width: 43px;
+	height: 13px;
+	left: 447px;
+	top: 281px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+
+	color: #636261;
+
+}
